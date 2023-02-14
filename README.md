@@ -62,7 +62,11 @@ All systems designed for long term use (10years+) and geared around constant evo
 
 - 3. a long-form personal design system and UI
 
+## Designs
 
+Very early mockups on [Figma](https://www.figma.com/file/mT9h5jF8tHC0E0nqmhLCUt/CalendarApp--100daysofcode-2023?node-id=0%3A1&t=nIs35pee5dN6Btig-1).
+
+Will be developing in the same file.
 
 ## Install
 
